@@ -3,5 +3,4 @@ Mi primer repositorio de Github
 
 Author: Ronald Giampiere Julca Rosales
 
-# Documentacion DEV1
 
